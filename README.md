@@ -8,3 +8,6 @@ LuoguDalaoQuotations V1.11 洛谷大佬语录V1.11分支版本 欢迎Fork！
 # 就可以使用啦！
 # 例如:https://chihuo2104.github.io/LuoguDalaoQuotations/kkk%20什么傻屌.jpg
 # ![](https://chihuo2104.github.io/LuoguDalaoQuotations/kkk%20什么傻屌.jpg)
+# 注意！更新日志！
+# 2019-7-22 V1.11被上传至Github
+# 2019-7-23 V1.11.0.1上传了小粉兔 鱼鱼正躺在我床上呢和kkk 别迫害cz了吧
