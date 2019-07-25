@@ -1,5 +1,5 @@
 # LuoguDalaoQuotations
-LuoguDalaoQuotations V1.11 洛谷大佬语录V1.11分支版本 欢迎Fork！
+# LuoguDalaoQuotations V1.11 洛谷大佬语录V1.11分支版本 欢迎Fork！
 # by:mmm(QQ:1354566808)
 # 搬运&维护by:Chihuo2104(QQ:2104837674,微信:zhu171251476)
 # 注意一下:" "改成%20后使用
