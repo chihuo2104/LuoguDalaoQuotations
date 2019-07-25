@@ -7,6 +7,7 @@
 # GithubPage已经开启，可使用 https://chihuo2104.github.io/LuoguDaolaoQuotations/+你想用的表情包.jpg/.png
 # (+可不用写)
 # 就可以使用啦！
+# 注:此处洛谷大佬语录与QQ群里的语录不保持差距，且时常会维护
 # 例如:https://chihuo2104.github.io/LuoguDalaoQuotations/kkk%20什么傻屌.jpg
 # ![](https://chihuo2104.github.io/LuoguDalaoQuotations/kkk%20什么傻屌.jpg)
 # 注意！更新日志！
